@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,69 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+\# Proyecto Biblioteca
+
+
+
+Sistema de gestión bibliotecaria desarrollado mediante una arquitectura basada en microservicios.
+
+
+
+\## Descripción
+
+
+
+El proyecto tiene como objetivo desarrollar una aplicación distribuida para la gestión de una biblioteca, permitiendo administrar libros, usuarios y préstamos mediante servicios independientes que se comunican entre sí.
+
+
+
+\## Arquitectura del proyecto
+
+
+
+El sistema está dividido en diferentes microservicios:
+
+
+
+\- Microservicio de Libros
+
+\- Microservicio de Usuarios
+
+\- Microservicio de Préstamos
+
+\- Frontend de la aplicación
+
+
+
+\## Tecnologías utilizadas
+
+
+
+\### Backend
+
+\- Node.js
+
+\- Express.js
+
+\- MySQL
+
+
+
+\### Herramientas
+
+\- Git
+
+\- GitHub
+
+\- Postman
+
+\- Visual Studio Code
+
+
+
+\## Estructura del proyecto
+
+
+
+>>>>>>> e201a1cf095beea97e2cc8c06aee3f97aec91dc1
